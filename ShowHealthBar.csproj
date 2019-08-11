@@ -3,7 +3,7 @@
     <!-- Please set your mod ID here -->
     <AssemblyName>ShowHealthBar</AssemblyName>
     <!-- Please define the C# root namespace for your mod here -->
-    <RootNamespace>ShowHealthBar</RootNamespace>
+    <RootNamespace>CryoFall.ShowHealthBar</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
